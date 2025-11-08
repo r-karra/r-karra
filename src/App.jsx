@@ -1,4 +1,6 @@
 import React, { useEffect, useState, useRef } from "react";
+import ReactMarkdown from "react-markdown";
+
 
 export default function App() {
   const [page, setPage] = useState("sammy");
@@ -240,13 +242,99 @@ function BlogPage({ activePost, setActivePost }) {
   const posts = [
     { title: "fabricated serendipity revisited", date: "Oct 19, 2025", content: "Coming soon..." },
     { title: "fabricated serendipity", date: "Aug 24, 2025", content: "i used to just accept the fact that some people were 'luckier' than me...\n\nthis is a sample body for preview." },
+    {
+      title: "Deploying rkarra.jsx to Firebase",
+      date: "Nov 8, 2025",
+      content: `
+  # 🚀 Full Firebase Deployment Guide for rkarra.jsx
+  
+  Perfect. You’ve got a clean React component file (rkarra.jsx) — now let’s make it run and deploy properly to Firebase from scratch.
+  
+  Follow these exact steps — we’ll build a working React + Vite + Tailwind setup and deploy it cleanly.
+  
+  ## 🧱 Step 1 — Create a fresh Vite React project
+  In a clean folder (no spaces in the path):
+  
+  \`\`\`bash
+  npm create vite@latest r-karra
+  cd r-karra
+  \`\`\`
+  
+  Select:
+  - Framework: React  
+  - Variant: JavaScript  
+  
+  ## 🎨 Step 2 — Add Tailwind CSS
+  \`\`\`bash
+  npm install -D tailwindcss@3.4.13 postcss autoprefixer
+  npx tailwindcss init -p
+  \`\`\`
+  
+  ## 📄 Step 3 — Set up styles
+  \`\`\`css
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+  \`\`\`
+  
+  ## ⚙️ Step 4 — Replace the default app
+  Replace \`src/App.jsx\` with your uploaded \`rkarra.jsx\` file.
+  
+  ## 🧩 Step 5 — Fix the entry point
+  \`\`\`jsx
+  import React from "react";
+  import ReactDOM from "react-dom/client";
+  import App from "./App.jsx";
+  import "./index.css";
+  
+  ReactDOM.createRoot(document.getElementById("root")).render(
+    <React.StrictMode>
+      <App />
+    </React.StrictMode>
+  );
+  \`\`\`
+  
+  ## 🪄 Step 6 — Vite config
+  \`\`\`js
+  import { defineConfig } from "vite";
+  import react from "@vitejs/plugin-react";
+  export default defineConfig({
+    plugins: [react()],
+    base: "./",
+  });
+  \`\`\`
+  
+  ## ☁️ Step 8 — Firebase Hosting
+  \`\`\`bash
+  npm install -g firebase-tools
+  firebase login
+  firebase init hosting
+  firebase deploy
+  \`\`\`
+  
+  ✅ Done! Your app is live at https://r-karra.web.app.
+      `,
+    },
+    {
+      title: "fabricated serendipity revisited",
+      date: "Oct 19, 2025",
+      content: "",
+    },
+    {
+      title: "fabricated serendipity",
+      date: "Aug 24, 2025",
+      content:
+        `i used to just accept the fact that some people were "luckier" than me...\n\nthis is a sample body for preview.`,
+    },
   ];
   if (activePost) {
     return (
       <section>
         <h2 className="text-xl font-semibold hover:text-neutral-500 transition-colors duration-200">{activePost.title}</h2>
         <p className="text-neutral-500 text-sm mt-1">{activePost.date}</p>
-        <div className="border-t border-neutral-200 mt-4 pt-4 whitespace-pre-line leading-relaxed hover:text-neutral-500 transition-colors duration-200">{activePost.content}</div>
+        <div className="prose prose-neutral dark:prose-invert max-w-none border-t border-neutral-200 mt-4 pt-4 leading-relaxed">
+  <ReactMarkdown>{activePost.content}</ReactMarkdown>
+</div>
         <button onClick={() => setActivePost(null)} className="mt-8 text-neutral-600 hover:text-neutral-500">← Back to blog</button>
       </section>
     );
