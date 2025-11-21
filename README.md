@@ -45,5 +45,6 @@ Hi, I'm **Rajesh**, an AI/ML Intern with a strong interest in the intersection o
 - Email: [rajeshkarra.ai@gmail.com](mailto:rajeshkarra.ai@gmail.com)  
 - GitHub: [r-karra](https://github.com/r-karra)  
 - LinkedIn: [rajesh-karra](https://www.linkedin.com/in/rajesh-karra/)
+- Kaggle: [rajeshkumarkarra](https://www.kaggle.com/rajeshkumarkarra/)
 
 
