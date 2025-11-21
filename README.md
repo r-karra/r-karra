@@ -1,6 +1,6 @@
-# Rajesh Karra — AI/ML Engineer | Quantum Computing
+# Rajesh Karra — AI/ML Intern | Quantum Computing
 
-Hi, I'm **Rajesh**, an AI/ML Engineer with a strong interest in the intersection of machine learning and quantum computing.
+Hi, I'm **Rajesh**, an AI/ML Intern with a strong interest in the intersection of machine learning and quantum computing.
 
 ## 🔍 Profile
 
