@@ -46,5 +46,6 @@ Hi, I'm **Rajesh**, an AI/ML Intern with a strong interest in the intersection o
 - GitHub: [r-karra](https://github.com/r-karra)  
 - LinkedIn: [rajesh-karra](https://www.linkedin.com/in/rajesh-karra/)
 - Kaggle: [rajeshkumarkarra](https://www.kaggle.com/rajeshkumarkarra/)
+- Google Skills(Developer): [rajesh karra](https://www.skills.google/public_profiles/0c60f436-b3eb-4add-b238-a9f378c5066c)
 
 
