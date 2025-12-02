@@ -34,7 +34,7 @@ Hi, I'm **Rajesh**, an AI/ML Intern with a strong interest in the intersection o
   Lightweight LLM-style prototype: embeddings + transformer-based inference and prompt experiments.
 
 - **Independent Researcher**
-   Conducting advanced study in Quantum AI and Google DeepMind architectures; applying findings to build a custom LLM ([Repo will be added soon]).
+   Conducting advanced study in Quantum AI and Google DeepMind architectures; applying findings to build a custom LLM ([https://github.com/r-karra/WoG.git]).
 
 ## 🔬 Quantum Computing
 
