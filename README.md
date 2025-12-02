@@ -33,6 +33,9 @@ Hi, I'm **Rajesh**, an AI/ML Intern with a strong interest in the intersection o
 - **Nano Chat LLM**  
   Lightweight LLM-style prototype: embeddings + transformer-based inference and prompt experiments.
 
+- **Independent Researcher**
+   Conducting advanced study in Quantum AI and Google DeepMind architectures; applying findings to build a custom LLM ([Repo will be added soon]).
+
 ## 🔬 Quantum Computing
 
 - Built circuits in **Qiskit** for superposition, entanglement, and Bell states  
