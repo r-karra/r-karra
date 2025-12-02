@@ -35,8 +35,7 @@ Hi, I'm **Rajesh**, an AI/ML Intern with a strong interest in the intersection o
 
 - **Independent Researcher**
    Conducting advanced study in Quantum AI and Google DeepMind architectures; applying findings to build a custom LLM
-  ([https://github.com/r-karra/WoG.git]\
-  [https://alphaqubit-848639819870.us-west1.run.app/]).
+  
 
 ## 🔬 Quantum Computing
 
@@ -53,4 +52,6 @@ Hi, I'm **Rajesh**, an AI/ML Intern with a strong interest in the intersection o
 - Kaggle: [rajeshkumarkarra](https://www.kaggle.com/rajeshkumarkarra/)
 - Google Skills(Developer): [rajesh karra](https://www.skills.google/public_profiles/0c60f436-b3eb-4add-b238-a9f378c5066c)
 
-
+## Projects which I currently working for:
+[1][https://github.com/r-karra/WoG.git]\
+[2][https://alphaqubit-848639819870.us-west1.run.app/]
