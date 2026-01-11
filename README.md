@@ -54,4 +54,5 @@ Hi, I'm **Rajesh**, an AI/ML Intern with a strong interest in the intersection o
 
 ## Projects which I currently working for:
 [1][https://github.com/r-karra/WoG.git]\
-[2][https://alphaqubit-848639819870.us-west1.run.app/]
+[2][https://alphaqubit-848639819870.us-west1.run.app/] [[Console](https://console.cloud.google.com/run/overview?project=gen-lang-client-0591126424)] \
+[3][[kinetic-shapes](https://kinetic-shapes-848639819870.us-west1.run.app/)] [[Console](https://console.cloud.google.com/run/overview?project=gen-lang-client-0591126424)]
