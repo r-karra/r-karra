@@ -13,7 +13,7 @@ I am currently a GSoC 2026 Candidate for **ML4Sci**, focusing on the **Quantum P
 ## 📊 Highlighted Project: KJV-Bible-LLM Dataset
 - **Engineering:** Curated and structured a high-fidelity dataset of 31,102 verses.
 - **Goal:** Enabling specialized LLM fine-tuning through advanced sequence modeling.
-- **Availability:** Open-sourced on [Kaggle](YOUR_KAGGLE_LINK) and [Hugging Face](YOUR_HF_LINK).
+- **Availability:** Open-sourced on [Kaggle](https://www.kaggle.com/rajeshkumarkarra/), [GitHub](https://github.com/r-karra) and [Hugging Face](https://huggingface.co/r-karra).
 - **Proof of Concept:** Demonstrates my ability to manage complex ETL pipelines for large-scale Transformer training.
 
 ## 🛠️ Technical Stack
@@ -26,4 +26,4 @@ I am currently a GSoC 2026 Candidate for **ML4Sci**, focusing on the **Quantum P
 - **B.Sc. in Computer Science** - **Mission:** Building AI systems that support human emotional growth and environmental sustainability.
 
 ---
-📫 **Connect with me:** [LinkedIn](YOUR_LINK) | [Email](YOUR_EMAIL)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/rajesh-karra/) | [Email](r.karra.research@gmail.com)
