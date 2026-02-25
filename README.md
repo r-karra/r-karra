@@ -14,7 +14,7 @@ I am currently a candidate for **Google Summer of Code 2026** with **ML4Sci**, f
     * **Technical Benchmarks:** Documentation on addressing Barren Plateaus and scaling to 100+ qubits.
 
 ## 📊 Core Projects & Datasets
-### [KJV-Bible-LLM Dataset](https://github.com/r-karra/r-karra)
+### ### [Cleaned KJV Bible for LLMs (Kaggle)](https://www.kaggle.com/datasets/rajeshkumarkarra/cleaned-kjv-bible-for-llms)
 * **Role:** Lead Data Engineer.
 * **Impact:** Engineered a structured, high-fidelity dataset of 31,102 verses for LLM research.
 * **Relevance:** This served as my foundational benchmark for **large-scale sequence modeling**, providing the ETL and data-handling expertise necessary for High Energy Physics (HEP) datasets.
