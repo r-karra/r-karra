@@ -1,6 +1,6 @@
-# Rajesh Karra — AI/ML Intern | Quantum Computing
+# Rajesh Karra — AI/QML Intern | Quantum Computing
 
-Hi, I'm **Rajesh**, an AI/ML Intern with a strong interest in the intersection of machine learning and quantum computing.
+Hi, I'm **Rajesh**, an AI/ML Intern with a strong interest in the intersection of LLMs and quantum computing.
 
 ## 🔍 Profile
 
@@ -46,13 +46,13 @@ Hi, I'm **Rajesh**, an AI/ML Intern with a strong interest in the intersection o
 
 ## 📫 Contact
 
-- Email: [rajeshkarra.ai@gmail.com](mailto:rajeshkarra.ai@gmail.com)  
+- Email: [r.karra.research@gmail.com](r.karra.research@gmail.com)  
 - GitHub: [r-karra](https://github.com/r-karra)  
 - LinkedIn: [rajesh-karra](https://www.linkedin.com/in/rajesh-karra/)
 - Kaggle: [rajeshkumarkarra](https://www.kaggle.com/rajeshkumarkarra/)
 - Google Skills(Developer): [rajesh karra](https://www.skills.google/public_profiles/0c60f436-b3eb-4add-b238-a9f378c5066c)
-
+- Google Developer: [rajesh_karra](https://developers.google.com/profile/u/rajesh_karra)
+- HuggingFace: [r-karra](https://huggingface.co/r-karra)
+  
 ## Projects which I currently working for:
-[1][https://github.com/r-karra/WoG.git]\
-[2][https://alphaqubit-848639819870.us-west1.run.app/] [[Console](https://console.cloud.google.com/run/overview?project=gen-lang-client-0591126424)] \
-[3][[kinetic-shapes](https://kinetic-shapes-848639819870.us-west1.run.app/)] [[Console](https://console.cloud.google.com/run/overview?project=gen-lang-client-0591126424)]
+[1][https://github.com/r-karra/super-book]
