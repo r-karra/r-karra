@@ -14,7 +14,7 @@ I am currently a candidate for **Google Summer of Code 2026** with **ML4Sci**, f
     * **Technical Benchmarks:** Documentation on addressing Barren Plateaus and scaling to 100+ qubits.
 
 ## 📊 Core Projects & Datasets
-### ### [Cleaned KJV Bible for LLMs (Kaggle)](https://www.kaggle.com/datasets/rajeshkumarkarra/cleaned-kjv-bible-for-llms)
+[Cleaned KJV Bible for LLMs (Kaggle)](https://www.kaggle.com/datasets/rajeshkumarkarra/cleaned-kjv-bible-for-llms)
 * **Role:** Lead Data Engineer.
 * **Impact:** Engineered a structured, high-fidelity dataset of 31,102 verses for LLM research.
 * **Relevance:** This served as my foundational benchmark for **large-scale sequence modeling**, providing the ETL and data-handling expertise necessary for High Energy Physics (HEP) datasets.
@@ -30,5 +30,5 @@ I am currently a candidate for **Google Summer of Code 2026** with **ML4Sci**, f
 
 ---
 
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/rajesh-karra/) | [Email](r.karra.research@gmail.com) | [Kaggle](https://www.kaggle.com/rajeshkumarkarra/) | [Hugging Face](https://huggingface.co/r-karra)
+**Connect with me:** [Email](r.karra.research@gmail.com) | [Github](https://github.com/r-karra)| [Kaggle](https://www.kaggle.com/rajeshkumarkarra/) | [Hugging Face](https://huggingface.co/r-karra) | [skill.google](https://www.skills.google/public_profiles/0c60f436-b3eb-4add-b238-a9f378c5066c) | [Google Developers](https://developers.google.com/profile/u/rajesh_karra) | [LinkedIn](https://www.linkedin.com/in/rajesh-karra/)
 
